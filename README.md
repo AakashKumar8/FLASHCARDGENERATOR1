@@ -8,13 +8,13 @@ This is a frontend Capstone project given by the Almabetter which is Flashcard G
 
 ## Demo about the pages:
 * Home Page
-(https://github.com/user-attachments/assets/d8fb4359-9ce6-44b8-b0b2-e02944308605)
+https://github.com/user-attachments/assets/d8fb4359-9ce6-44b8-b0b2-e02944308605
 
 * My FlashCard
-(https://github.com/user-attachments/assets/aac8c454-1e59-4e15-91e0-0e3b5613032e)
+https://github.com/user-attachments/assets/aac8c454-1e59-4e15-91e0-0e3b5613032e
 
 * Group
-(https://github.com/user-attachments/assets/68d08a8e-9abd-46a4-91d6-41b4f7ed17c4)
+https://github.com/user-attachments/assets/68d08a8e-9abd-46a4-91d6-41b4f7ed17c4
 
 ## Deployment
 
