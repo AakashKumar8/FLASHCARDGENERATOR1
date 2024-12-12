@@ -5,6 +5,11 @@ This is a frontend Capstone project given by the Almabetter which is Flashcard G
 
 ## Summary Document
 [Click Here]() to see my summary document.
+
+## Demo about the pages:
+. Home Page
+
+
 ## Deployment
 
 [Click Here](https://flashcardgenerater.netlify.app/) to see my flashcard generator website.
