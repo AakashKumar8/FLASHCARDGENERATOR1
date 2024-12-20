@@ -6,6 +6,12 @@ This is a frontend Capstone project given by the Almabetter which is Flashcard G
 ## Summary Document
 <b>Click [Here](https://docs.google.com/document/d/1eIQhwsy_5eHmOSYA_o2cKXQOgDxBHIBZm4nnZh8qNtg/edit?usp=sharing)</b> to see my summary document.
 
+## Video Link
+<b>Click [Here]()</b>
+
+## Web Link
+<b>Click [Here]()</b>
+
 ## Demo about the pages:
 * Home Page
 <img width="1120" alt="image" src="https://github.com/user-attachments/assets/d8fb4359-9ce6-44b8-b0b2-e02944308605">
