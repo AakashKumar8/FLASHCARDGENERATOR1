@@ -7,10 +7,10 @@ This is a frontend Capstone project given by the Almabetter which is Flashcard G
 <b>Click [Here](https://docs.google.com/document/d/1eIQhwsy_5eHmOSYA_o2cKXQOgDxBHIBZm4nnZh8qNtg/edit?usp=sharing)</b> to see my summary document.
 
 ## Video Link
-<b>Click [Here]()</b>
+<b>Click [Here](https://youtu.be/XqvviR5ARMI)</b>
 
 ## Web Link
-<b>Click [Here]()</b>
+<b>Click [Here](https://flashcardgenerater.netlify.app/)</b>
 
 ## Demo about the pages:
 * Home Page
